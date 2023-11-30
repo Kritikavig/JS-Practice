@@ -1,0 +1,27 @@
+body{
+    padding: 50px;
+}
+
+#wrapper {
+    text-align: center;
+    line-height: 1.5;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    box-shadow: 5px 5px #888;    
+}
+
+#newGame{
+    cursor: pointer; 
+    color: hotpink;
+}
+
+h1{
+    color: hotpink;
+}
+
+#sub{
+    cursor: pointer;
+    background-color: hotpink;
+}
